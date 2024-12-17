@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrBix
 - 👀 I’m interested in web app development
-- 🌱 My focus is on clearString, neatComponents, Python, Flutter, Solidity, Moralis, Tatum 
+- 🌱 My focus is on clearString, neatComponents, Python, Django, Wagtail, Flutter
 - 💞️ I love codeless web app development
 - 📫 How to reach me: dryklim AT gmail
 
